@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-success)
 ![Fontes](https://img.shields.io/badge/Fontes%20consolidadas-45-informational)
 
-https://notebooklm.google.com/notebook/03c97319-6e83-4196-9844-532d58aacf13
+[https://notebooklm.google.com/notebook/03c97319-6e83-4196-9844-532d58aacf13](https://notebooklm.google.com/notebook/03c97319-6e83-4196-9844-532d58aacf13)
 
 ---
 
